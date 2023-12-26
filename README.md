@@ -5,6 +5,22 @@
 - 用中文介紹 Advent of Code https://en.wikipedia.org/wiki/Advent_of_Code
 - 介紹每天的任務
 
+## 簡介
+Advent of Code 的[網址](https://adventofcode.com/) 點開如下方，傳統電腦螢幕的黑底綠字風格。很有 Hacker 的氣氛。畫面上方「綠字」是選單，可用 Mouse 點擊。，下方的「數字」，是每天的關卡 --- 12/1 只會出現數字1，對應第1天的任務，每天會跳出1個新的任務，下方的截圖是在12/25之後,所以看到一整直排的數字。
+
+![image](https://github.com/jsyeh/advent-of-code/assets/3252557/c944095d-4c0a-4a4e-929a-0c8923f51058)
+
+點開數字1，便可以看到 Day 1 的題目。維持一樣的「小黑」風格，因為是網頁模擬，所以「綠字」是可以點擊的連結，會有相關資料。
+
+![image](https://github.com/jsyeh/advent-of-code/assets/3252557/7429cb5c-73ce-4507-b426-49a91e3394a6)
+
+題目下方，提醒要登入後，才能開始玩。可使用 GitHub/Google/Twitter/Reddit 的認證來登入。
+
+![image](https://github.com/jsyeh/advent-of-code/assets/3252557/f9405f26-cfbe-4aa8-baa9-654140806fe2)
+
+登入後, 會秀出你的解題歷程。原本空空首頁，會看到你探索過的地圖，像古時候「文字型RPG」解謎風格的地圖。右邊也會秀出你得過的星星。
+
+![image](https://github.com/jsyeh/advent-of-code/assets/3252557/dd02f379-ed8e-4d4b-a9cf-3be74c41d89a)
 
 ## 重要時間記錄
 使用 +08:00 台北時間來記錄
